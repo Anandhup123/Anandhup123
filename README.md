@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anandhup123
 - 👀 I’m interested in programming and teaching field
 - 🌱 I’m currently learning python basic coding 
-- 💞️ I’m looking to collaborate on java
 
 
 <!---
