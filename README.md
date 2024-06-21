@@ -38,6 +38,6 @@ An online tuition platform designed to facilitate smart education for students, 
 ## 📫 Let's Connect:
 Excited about web development, design, or just want to chat? Feel free to reach out. Let's collaborate and create something amazing together!
 
-[GitHub](https://github.com/Anandhup123) | [LinkedIn](https://www.linkedin.com/in/anandhu)
+[GitHub](https://github.com/Anandhup123) | [LinkedIn]()
 
 #WebDeveloper #HTML #CSS #JavaScript #TypeScript #Flutter #Angular #ContinuousLearning
