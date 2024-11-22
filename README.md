@@ -43,4 +43,9 @@ Excited about web development, design, or just want to chat? Feel free to reach 
 #WebDeveloper #HTML #CSS #JavaScript #TypeScript #Flutter #Angular #ContinuousLearning
 
 ![Anandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anandhup123&show_icons=true&theme=radical)
-
+[![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anandhup123&theme=github_dark)](https://github.com/Anandhup123)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhup123&layout=compact&theme=dark)
+[![Anandhu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anandhup123&theme=react-dark)](https://github.com/Anandhup123)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anandhup123&theme=onedark&no-frame=true&column=7)
+![Profile Views](https://komarev.com/ghpvc/?username=Anandhup123&label=Profile%20Views&color=blue&style=flat)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anandhup123&theme=dark)](https://github.com/Anandhup123)
