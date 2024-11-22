@@ -5,10 +5,9 @@
 </div>
 
 ### 🌐 **Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anandhup/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Anandhup123)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourhackerrankprofile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=flat&logo=web&logoColor=white)](https://yourportfolio.com)  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/myselfanandhup)  
 
 ### 🚀 **Tech Stack:**
 ![HTML](https://img.shields.io/badge/-HTML-FF5722?style=flat-square&logo=html5&logoColor=white)
@@ -26,13 +25,12 @@
 - **SmartEdu:** Online tuition platform with virtual classrooms.
 
 ### 📊 **GitHub Stats:**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anandhup123&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandhup123&theme=dark" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhup123&layout=compact&theme=dark" alt="Top Languages">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anandhup123&show_icons=true&theme=radical" alt="GitHub Stats" width="32%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandhup123&theme=dark" alt="GitHub Streak" width="32%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhup123&layout=compact&theme=dark" alt="Top Languages" width="32%">
 </div>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anandhup123&label=Profile%20Views&color=blue&style=flat)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anandhup123&theme=onedark&no-frame=true&column=7)  
