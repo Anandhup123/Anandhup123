@@ -41,3 +41,6 @@ Excited about web development, design, or just want to chat? Feel free to reach 
 [GitHub](https://github.com/Anandhup123) | [LinkedIn]()
 
 #WebDeveloper #HTML #CSS #JavaScript #TypeScript #Flutter #Angular #ContinuousLearning
+
+![Anandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anandhup123&show_icons=true&theme=radical)
+
