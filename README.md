@@ -31,10 +31,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhup123&layout=compact&theme=dark" alt="Top Languages" width="32%">
 </div>
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Anandhup123&label=Profile%20Views&color=blue&style=flat)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anandhup123&theme=onedark&no-frame=true&column=7)  
+
+### 📉 **GitHub Activity Graph:**
+[![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anandhup123&theme=github_dark)](https://github.com/Anandhup123)
 
 ---
 
 Let's build something amazing together! 🚀
+
