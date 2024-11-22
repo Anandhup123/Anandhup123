@@ -1,51 +1,42 @@
-# 👋 Hello World! I'm ANANDHU
+# 👋 Hi, I'm **ANANDHU P.**  
 
-I'm an HTML and CSS enthusiast with a passion for creating visually stunning and responsive web designs. Currently, I'm diving into the world of TypeScript, JavaScript, and Flutter to enhance my skills in building dynamic and interactive web applications. I'm also exploring Angular for building robust and scalable front-end applications.
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C3FF&width=435&lines=Web+Developer;Flutter+Explorer;JavaScript+Enthusiast;Always+Learning!" alt="Typing Animation">
+</div>
 
-## 🚀 What I bring to the table:
-- **Expertise in HTML & CSS**: Crafting pixel-perfect and user-friendly interfaces.
-- **TypeScript & JavaScript**: Honing my skills for powerful and dynamic scripting.
-- **Flutter**: Exploring cross-platform mobile app development.
-- **Angular**: Recently embarked on the exciting journey of building robust and scalable front-end applications.
+### 🌐 **Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Anandhup123)  
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yourhackerrankprofile)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=flat&logo=web&logoColor=white)](https://yourportfolio.com)  
 
-## 🌱 Always Learning:
-I believe in the power of continuous learning! Whether it's staying up-to-date with the latest web development trends or mastering new frameworks, my journey is all about growth.
+### 🚀 **Tech Stack:**
+![HTML](https://img.shields.io/badge/-HTML-FF5722?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-## 🛠️ Tech Stack:
-- HTML
-- CSS
-- TypeScript
-- JavaScript
-- Flutter
-- Angular
+### 📂 **Projects:**
+- **Worker-Providing Platform:** Connects workers with employers via job postings and search functionalities.
+- **ConvertX:** Android app for real-time currency conversion.
+- **QuizMaster:** Interactive quiz app with multiple-choice questions.
+- **MessengerView:** WhatsApp-like messaging app to practice UI/UX.
+- **SmartEdu:** Online tuition platform with virtual classrooms.
 
-## 📂 Projects:
-### Worker-Providing Website
-Developed a comprehensive platform to connect workers with employers, featuring user registration, job posting, and search functionalities.
+### 📊 **GitHub Stats:**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anandhup123&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandhup123&theme=dark" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhup123&layout=compact&theme=dark" alt="Top Languages">
+</div>
 
-### ConvertX
-An Android application built with Java for converting Indian Rupees to other currencies, featuring real-time exchange rate updates and a user-friendly interface.
+![Profile Views](https://komarev.com/ghpvc/?username=Anandhup123&label=Profile%20Views&color=blue&style=flat)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anandhup123&theme=onedark&no-frame=true&column=7)  
 
-### QuizMaster
-An interactive Android quiz application developed in Java, featuring multiple-choice questions, score tracking, and a timer.
+---
 
-### MessengerView
-A mobile application mimicking the layout of WhatsApp, built to enhance my UI/UX design skills and understand messaging app functionalities.
-
-### SmartEdu
-An online tuition platform designed to facilitate smart education for students, incorporating features like virtual classrooms, assignment submissions, and interactive learning resources.
-
-## 📫 Let's Connect:
-Excited about web development, design, or just want to chat? Feel free to reach out. Let's collaborate and create something amazing together!
-
-[GitHub](https://github.com/Anandhup123) | [LinkedIn]()
-
-#WebDeveloper #HTML #CSS #JavaScript #TypeScript #Flutter #Angular #ContinuousLearning
-
-![Anandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anandhup123&show_icons=true&theme=radical)
-[![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anandhup123&theme=github_dark)](https://github.com/Anandhup123)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhup123&layout=compact&theme=dark)
-[![Anandhu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anandhup123&theme=react-dark)](https://github.com/Anandhup123)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anandhup123&theme=onedark&no-frame=true&column=7)
-![Profile Views](https://komarev.com/ghpvc/?username=Anandhup123&label=Profile%20Views&color=blue&style=flat)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anandhup123&theme=dark)](https://github.com/Anandhup123)
+Let's build something amazing together! 🚀
