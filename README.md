@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **ANANDHU P.**  
-
+![Profile Views](https://komarev.com/ghpvc/?username=Anandhup123&label=Profile%20Views&color=blue&style=flat)
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C3FF&width=435&lines=Web+Developer;Flutter+Explorer;JavaScript+Enthusiast;Always+Learning!" alt="Typing Animation">
 </div>
@@ -31,7 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhup123&layout=compact&theme=dark" alt="Top Languages" width="32%">
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anandhup123&label=Profile%20Views&color=blue&style=flat)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Anandhup123&theme=onedark&no-frame=true&column=7)  
 
 ### 📉 **GitHub Activity Graph:**
